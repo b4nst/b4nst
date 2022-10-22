@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -99,7 +99,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zakaria-chahboun/cute</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a minimalist beautiful Go print (fmt alternative)</div>
@@ -152,7 +152,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>udacity/graphb</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GraphQL Query Builder for Go</div>
@@ -205,7 +205,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdine/cueimports</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 21 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">CUE tool that updates your import lines, adding missing ones and removing unused ones.</div>
@@ -258,7 +258,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChariotEngine/Chariot</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 21 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform open-source reimplementation of the Age of Empires (1997) engine</div>
